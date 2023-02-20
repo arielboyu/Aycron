@@ -14,7 +14,7 @@ const Home = ({setAuth}) => {
       <AdminForm  setAuth={setAuth} captureAdress={captureAdress} setShowMap={setShowMap} />
       <hr></hr>
       {showAddForm ? <StoreForm setSwowAddForm={setSwowAddForm} /> : ''}
-      <div style={{marginLeft: '300px'}}>
+      <div style={{marginLeft: '100px'}}>
         {showMap ? <Map adress={adress} /> : ''}
       </div>
       <Table setSwowAddForm={setSwowAddForm} showAddForm={showAddForm} />
