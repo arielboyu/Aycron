@@ -1,0 +1,15 @@
+.login-box {
+margin-top:200px;
+display:flex;
+justify-content: center
+}
+
+.form-login {
+display: flex;
+flex-direction: column;
+border: 1px solid grey;
+width: 500px;
+height: 300px;
+padding: 60px 80px;
+border-radius: 20px
+}

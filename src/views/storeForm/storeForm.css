@@ -1,0 +1,27 @@
+.form-box {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding-top: 20px;
+  border: 1px solid grey;
+  padding: 20px 40px;
+  border-radius:10px
+}
+
+input {
+border-radius: 30px;
+padding-left: 10px;
+margin-bottom:20px
+}
+
+button{
+    border-radius: 30px;
+    background-color: black;
+    color:white;
+    opacity: 70%;
+}
