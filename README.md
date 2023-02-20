@@ -6,8 +6,14 @@ cada distancia en su respecta tienda, luego ordenamos este arreglo de menor dist
 tendra pintada la ruta dentro del mapa con el metodo DirectionsRenderer y las referencias con InfoWindow.Se utilizo react.toast para gestionar alertas 
 de validación y tareas realizadas.
 
+https://aycron.netlify.app/ en el siguiente link puedes testear el flujo del proyecto. a continuación algunas capturas.
+
 
 
 <p align='center'>
     <img src='https://i.ibb.co/m60S7TQ/Whats-App-Image-2023-02-20-at-20-13-00.jpg' </img>
+</p>
+
+<p align='center'>
+    <img src='https://i.ibb.co/CVLqRZk/Whats-App-Image-2023-02-20-at-20-52-02.jpg' </img>
 </p>
