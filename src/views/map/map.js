@@ -87,7 +87,7 @@ const Map = ({adress}) => {
                           backgroundColor: 'red',
                           width: '30px',
                           color: 'white',
-                          fontSize: '20¿px',
+                          fontSize: '20px',
                         }}
                       >
                         <p>{id + 1}</p>
