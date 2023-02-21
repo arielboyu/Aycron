@@ -15,6 +15,8 @@ https://aycron.netlify.app/ en el siguiente link puedes testear el flujo del pro
     <img src='https://i.ibb.co/m60S7TQ/Whats-App-Image-2023-02-20-at-20-13-00.jpg' </img>
 </p>
 
+En esta Imagen podemos ver cuando el admin ingresa una dirección , y la app nos calcula la ruta al destino mas cercano y los 2 puntos referenciados a las siguientes direcciones mas cercanas con las referencias 1 2 y 3.
+
 <p align='center'>
     <img src='https://i.ibb.co/CVLqRZk/Whats-App-Image-2023-02-20-at-20-52-02.jpg' </img>
 </p>
